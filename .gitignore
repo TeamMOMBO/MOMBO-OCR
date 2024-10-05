@@ -1,0 +1,4 @@
+.venv
+**/out/
+*.gt
+**/data_lmdb_release/
